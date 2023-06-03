@@ -15,6 +15,12 @@
 ### Contact with me 📝
 
 
+  
+<a href="https://www.linkedin.com/in/marta-tirador-gutierrez-84924a234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
+
+
 ---
 
 ### Languages and Tools 🛠 
