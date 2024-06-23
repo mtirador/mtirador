@@ -2,7 +2,7 @@
 
 
 
-## I'm a Cross-platform application development student
+## I'm a software developer
 
 - 👨‍💻 I’m currently working on frontend development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
