@@ -4,7 +4,7 @@
 
 ## I'm a software developer
 
-- 👨‍💻 I’m currently working on frontend development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working with Drupal development, mainly focusing on frontend technologies like JavaScript, React, and modern web tools.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love pilates and meditation :cherry_blossom:.
